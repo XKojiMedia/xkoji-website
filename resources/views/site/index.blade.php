@@ -38,10 +38,10 @@
         </div>
     </div>
     <div class="contact-link-wrapper">
-        <a href="mailto:admin@xkoji.com.ng">Wanna say his?</a>
+        <a href="mailto:admin@xkoji.com.ng">Wanna say hi?</a>
     </div>
     <div class="copyright-wrapper">
-        XKojiMedia &copy; 2016
+        XKojiMedia &copy; 2017
     </div>
 </div>
 <script>
