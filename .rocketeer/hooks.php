@@ -24,7 +24,11 @@ return [
     // Tasks to execute after the core Rocketeer Tasks
     'after'  => [
         'setup'   => [],
-        'deploy'  => [],
+        'deploy'  => [
+//            function($task) {
+//                $this->remote->put('.env', '.env');
+//            }
+        ],
         'cleanup' => [],
     ],
 

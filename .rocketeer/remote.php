@@ -32,6 +32,7 @@ return [
     'shared'         => [
         'storage/logs',
         'storage/sessions',
+        '.env'
     ],
 
     // Execution
@@ -70,7 +71,7 @@ return [
         'callback' => function ($task, $file) {
             return [
                 sprintf('chmod -R 755 %s', $file),
-//                sprintf('chmod -R g+s %s', $file),
+                sprintf('chmod -R g+s %s', $file),
                 sprintf('chown -R www-data:www-data %s', $file),
             ];
         },
