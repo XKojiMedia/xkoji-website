@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="contact-link-wrapper">
-        <a href="mailto:admin@xkoji.com.ng">Wanna say hi?</a>
+        <a href="mailto:admin@xkoji.com.ng">Wanna say his?</a>
     </div>
     <div class="copyright-wrapper">
         XKojiMedia &copy; 2016
