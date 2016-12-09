@@ -17,7 +17,7 @@ img{
 }
 
 .copyright-wrapper{
-  position: absolute;
+  //position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
@@ -26,3 +26,11 @@ img{
   font-size: 12px;
   font-weight: bold;
 }
+
+.header{
+  padding: 40px;
+}
+.logo{
+  max-width: 100px;
+}
+

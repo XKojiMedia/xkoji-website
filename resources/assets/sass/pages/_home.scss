@@ -1,0 +1,48 @@
+$jumbo-height: 350px;
+
+
+.jumbo{
+  position: relative;
+  height: $jumbo-height;
+  margin-bottom: 50px;
+}
+.boxes{
+  position: relative;
+  height: $jumbo-height;
+}
+.jumbo-box{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 230px;
+  height: 230px;
+  background: $brand-primary;
+  opacity: .2;
+  transform: translateX(-50%) translateY(-50%) rotateX(60deg) rotateZ(45deg);
+  transform-origin: center;
+  &.box-top{
+    background: $brand-secondary;
+    margin-top: -50px;
+  }
+  &.box-bottom{
+    background: $brand-secondary;
+    margin-top: 50px;
+  }
+}
+.jumbo-vp{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 50px;
+  text-align: center;
+  transform: translateX(-50%) translateY(-50%);
+  .vp-creativity{
+    color: $brand-secondary;
+  }
+  .vp-design{
+    color: $brand-primary;
+  }
+  .vp-innovation{
+    color: $brand-secondary;
+  }
+}
