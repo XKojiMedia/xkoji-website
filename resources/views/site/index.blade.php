@@ -24,7 +24,7 @@
           </h1>
         </div>
       </div>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium fugit incidunt rerum suscipit voluptatibus! Atque dicta eaque error explicabo harum mollitia nemo nisi non quod reprehenderit, saepe sed sit ut.
+      {{--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium fugit incidunt rerum suscipit voluptatibus! Atque dicta eaque error explicabo harum mollitia nemo nisi non quod reprehenderit, saepe sed sit ut.--}}
     </div>
   </div>
 @endsection
