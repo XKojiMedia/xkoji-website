@@ -24,6 +24,51 @@
           </h1>
         </div>
       </div>
+
+      <div class="services-section">
+        <div class="services-bg"></div>
+        <div class="container">
+          <div class="service-item">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="service-image">
+
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h2>Consult</h2>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut, blanditiis corporis doloribus ipsum molestias, officia, officiis provident sit temporibus ullam voluptatibus. Blanditiis doloribus enim laborum nihil provident sapiente ullam.
+              </div>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="row">
+              <div class="col-md-6">
+                <h2>Consult</h2>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut, blanditiis corporis doloribus ipsum molestias, officia, officiis provident sit temporibus ullam voluptatibus. Blanditiis doloribus enim laborum nihil provident sapiente ullam.
+              </div>
+              <div class="col-md-6">
+                <div class="service-image">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="service-item">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="service-image">
+
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h2>Consult</h2>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut, blanditiis corporis doloribus ipsum molestias, officia, officiis provident sit temporibus ullam voluptatibus. Blanditiis doloribus enim laborum nihil provident sapiente ullam.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       {{--Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium fugit incidunt rerum suscipit voluptatibus! Atque dicta eaque error explicabo harum mollitia nemo nisi non quod reprehenderit, saepe sed sit ut.--}}
     </div>
   </div>

@@ -4,7 +4,7 @@ $jumbo-height: 350px;
 .jumbo{
   position: relative;
   height: $jumbo-height;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 .boxes{
   position: relative;
@@ -45,4 +45,23 @@ $jumbo-height: 350px;
   .vp-innovation{
     color: $brand-secondary;
   }
+}
+.services-section{
+  position: relative;
+  padding: 100px 0;
+}
+.services-bg{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgba($brand-secondary, .4);
+  transform: skewY(-5deg);
+}
+.service-item{
+  margin-bottom: 100px;
+}
+.service-image{
+  min-height: 300px;
+  background: $gray;
 }
