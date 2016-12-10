@@ -7837,12 +7837,16 @@ img {
   color: #F6AE2D;
 }
 
-.services-section {
+.jumbo-vp-text {
+  margin: 0;
+}
+
+.content-section {
   position: relative;
   padding: 100px 0;
 }
 
-.services-bg {
+.content-bg {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -7859,6 +7863,51 @@ img {
 .service-image {
   min-height: 300px;
   background: #555555;
+}
+
+.social-media-section {
+  position: relative;
+}
+
+.social-media-section-title {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.social-media-links {
+  text-align: center;
+}
+
+.social-media-links:hover .media-item {
+  background: rgba(246, 174, 45, 0.5);
+}
+
+.social-media-links .media-item {
+  display: inline-block;
+  position: relative;
+  background: #F6AE2D;
+  color: #fff;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+  margin: 0 35px;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+
+.social-media-links .media-item:hover {
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+  background: #F6AE2D;
+}
+
+.social-media-links .media-item-content {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  width: 100%;
+  text-transform: uppercase;
 }
 
 /*# sourceMappingURL=app.css.map */
