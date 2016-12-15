@@ -50,8 +50,13 @@
             <div class="service-item">
               <div class="row">
                 <div class="col-md-6">
-                  <h2>Consult</h2>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut, blanditiis corporis doloribus ipsum molestias, officia, officiis provident sit temporibus ullam voluptatibus. Blanditiis doloribus enim laborum nihil provident sapiente ullam.
+                  <h2>Develop</h2>
+                  <p>
+                    Creating world-class websites and web applications should not be a major difficulty for anyone. We make certain that our clients get the best work, following the best practices currently available.
+
+                    Frontend
+                    Backend
+                  </p>
                 </div>
                 <div class="col-md-6">
                   <div class="service-image">
@@ -68,8 +73,13 @@
                   </div>
                 </div>
                 <div class="col-md-6">
-                  <h2>Consult</h2>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aut, blanditiis corporis doloribus ipsum molestias, officia, officiis provident sit temporibus ullam voluptatibus. Blanditiis doloribus enim laborum nihil provident sapiente ullam.
+                  <h2>Design</h2>
+                  <p>
+                    Capturing the essence of a body or organisation is a craft that requires precision and depth, which is not always easy to achieve. Wielding such a skill with grace is one thing we have been able to accomplish.
+
+                    UI Design
+                    Graphic Design
+                  </p>
                 </div>
               </div>
             </div>
