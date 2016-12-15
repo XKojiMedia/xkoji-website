@@ -17,6 +17,7 @@ $jumbo-height: 350px;
   width: 230px;
   height: 230px;
   background: $brand-primary;
+  border-radius: 10px;
   opacity: .2;
   transform: translateX(-50%) translateY(-50%) rotateX(60deg) rotateZ(45deg);
   transform-origin: center;
@@ -65,8 +66,39 @@ $jumbo-height: 350px;
   margin-bottom: 100px;
 }
 .service-image{
+  position: relative;
   min-height: 300px;
-  background: $gray;
+  text-align: center;
+  margin: 50px;
+  padding: 80px;
+  //background: $gray;
+  &:before, &:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background: rgba($brand-secondary, .2);
+    transform: rotate(-3deg);
+  }
+  &:after{
+    background: rgba($brand-primary, .2);
+    transform: rotate(5deg);
+  }
+
+  svg, img{
+    position: relative;
+    z-index: 1;
+
+  }
+}
+.service-text{
+  margin-top: 100px;
+  ul{
+    margin: 0;
+  }
 }
 .social-media-section{
   position: relative;
@@ -94,7 +126,8 @@ $jumbo-height: 350px;
     margin: 0 35px;
     transition: all .3s;
     &:hover{
-      box-shadow: 0 3px 20px rgba(#000, .2);
+      transform: translateY(-10px);
+      box-shadow: 0 10px 20px rgba(#000, .15);
       background: $brand-secondary;
     }
   }

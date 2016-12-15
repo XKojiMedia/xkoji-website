@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="460px" height="356px" viewBox="0 0 460 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>develop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notes" transform="translate(-748.000000, -626.000000)">
+            <g id="develop" transform="translate(748.000000, 626.000000)">
+                <path d="M422.363636,356 L16.7272727,356 C7.48545455,356 0,348.503059 0,339.247059 L0,16.7529412 C0,7.49694118 7.48545455,0 16.7272727,0 L422.363636,0 C431.605455,0 439.090909,7.49694118 439.090909,16.7529412 L439.090909,339.247059 C439.090909,348.503059 431.605455,356 422.363636,356 Z" id="Shape" fill="#FF652D"></path>
+                <path d="M443.272727,356 L37.6363636,356 C28.3945455,356 20.9090909,348.503059 20.9090909,339.247059 L20.9090909,16.7529412 C20.9090909,7.49694118 28.3945455,0 37.6363636,0 L443.272727,0 C452.514545,0 460,7.49694118 460,16.7529412 L460,339.247059 C460,348.503059 452.514545,356 443.272727,356 Z" id="Shape" fill="#F6AE2D"></path>
+                <polyline id="Shape" stroke="#FF652D" stroke-width="26" points="317.232727 111.197647 407.978182 202.040471 319.24 290.872941"></polyline>
+                <polyline id="Shape" stroke="#FF652D" stroke-width="26" points="167.858182 111.197647 77.1127273 202.040471 165.850909 290.872941"></polyline>
+                <path d="M283.234545,111.197647 L217.203636,290.872941" id="Shape" stroke="#FF652D" stroke-width="26"></path>
+                <rect id="Rectangle-path" fill="#FF652D" x="20.9090909" y="54.4470588" width="439.090909" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FF652D" x="0" y="54.4470588" width="20.9090909" height="12.5647059"></rect>
+                <ellipse id="Oval" fill="#FFF200" cx="48.8018182" cy="27.9355294" rx="8.36363636" ry="8.37647059"></ellipse>
+                <ellipse id="Oval" fill="#EC008C" cx="78.0745455" cy="27.9355294" rx="8.36363636" ry="8.37647059"></ellipse>
+                <ellipse id="Oval" fill="#333031" cx="107.347273" cy="27.9355294" rx="8.36363636" ry="8.37647059"></ellipse>
+                <rect id="Rectangle-path" fill="#EC008C" x="71.0909091" y="104.705882" width="54.3636364" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#58595B" x="71.0909091" y="180.094118" width="112.909091" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#58595B" x="71.0909091" y="263.858824" width="112.909091" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="104.545455" y="125.647059" width="104.545455" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="104.545455" y="146.588235" width="75.2727273" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="330.363636" y="125.647059" width="75.2727273" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#EC008C" x="280.181818" y="125.647059" width="33.4545455" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFF200" x="221.636364" y="125.647059" width="46" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="192.363636" y="146.588235" width="46" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#0092C8" x="250.909091" y="146.588235" width="46" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#EC008C" x="71.0909091" y="288.988235" width="54.3636364" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="104.545455" y="309.929412" width="104.545455" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#EC008C" x="71.0909091" y="201.035294" width="54.3636364" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="104.545455" y="221.976471" width="104.545455" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="104.545455" y="242.917647" width="75.2727273" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="330.363636" y="221.976471" width="75.2727273" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#EC008C" x="284.363636" y="221.976471" width="33.4545455" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#FFF200" x="192.363636" y="242.917647" width="46" height="12.5647059"></rect>
+                <rect id="Rectangle-path" fill="#0092C8" x="221.636364" y="221.976471" width="46" height="12.5647059"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
